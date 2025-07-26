@@ -47,3 +47,5 @@ Some articulation icons are provided by Blake Robinson, and redistribution is no
 permitted. More information about those icons can be found [here](source-images/articulations).
 
 See LICENSE file for more details.
+
+## Contributing
